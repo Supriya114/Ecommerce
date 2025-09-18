@@ -1,2 +1,2 @@
 # ecommerce
-E-commerce website in September SDP.
+E-commerce website in September 
